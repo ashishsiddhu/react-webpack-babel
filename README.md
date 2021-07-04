@@ -11,7 +11,7 @@ A ready to use simple react + webpack + babel setup.
 
 ## Instructions
 
-- `git clone git@github.com:ashishsiddhu/react-webpack-babel.git`
+- `git clone https://github.com/ashishsiddhu/react-webpack-babel.git`
 - cd react-webpack-babel
 - Run `npm install`
 - Run `npm start`, **localhost:3000** will open up in your default browser
